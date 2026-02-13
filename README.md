@@ -40,4 +40,4 @@ The dashboard enables region-wise filtering, sales executive performance trackin
 ---
 
 ### 📢 Connect with Me  
-If you found this project interesting, feel free to connect with me on [LinkedIn](www.linkedin.com/in/aanchal-sharma-905ba3325) 🚀  
+If you found this project interesting, feel free to connect with me on [LinkedIn] (www.linkedin.com/in/aanchal-sharma-905ba3325) 🚀  
